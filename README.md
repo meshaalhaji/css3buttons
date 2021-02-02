@@ -1,2 +1,3 @@
-# css3buttons
-A Simple Css3 Buttons Coded By Me
+# CSS3 Buttons
+A simple CSS3 Buttons coded by me. You can do whatever you want with them. 
+😊
